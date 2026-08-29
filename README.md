@@ -129,3 +129,5 @@ pre-commit install
 
 This layer is bypassable (`--no-verify`); the enforceable backstop is the CI
 secret scan on every pull request.
+
+<!-- onboarded to the demo project on the SDDP paved road -->
